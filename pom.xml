@@ -109,7 +109,7 @@
     <gbif-api.version>0.103.5-jackson2</gbif-api.version>
     <gbif-directory.version>0.11</gbif-directory.version>
     <gbif-parsers.version>0.36</gbif-parsers.version>
-    <solr.version>5.4.1</solr.version>
+    <solr.version>8.4.0</solr.version>
     <commons-validator.version>1.5.1</commons-validator.version>
     <commons-io.version>2.5</commons-io.version>
     <findbugs-jsr305.version>3.0.1</findbugs-jsr305.version>
